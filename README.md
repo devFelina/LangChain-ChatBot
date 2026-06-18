@@ -114,14 +114,6 @@ Open the included Jupyter notebooks to see a step-by-step demo (ingestion, index
 - Embedding and index creation
 - Example queries and evaluation
 
-## File structure (example)
-
-- notebooks/ - demo and experimentation notebooks
-- data/ - raw documents used for ingestion
-- src/ - scripts and modules (if present)
-- requirements.txt - Python dependencies
-- README.md - this file
-
 Adjust to your repository's actual layout.
 
 ## How to extend or customize
@@ -151,10 +143,6 @@ Please open an issue to discuss larger changes before implementing them.
 
 Specify a license for the project (e.g., MIT). If you don't have one, consider adding a LICENSE file.
 
-## Contact
 
-If you have questions, open an issue or reach out to the repository owner.
 
----
 
-This README provides a high-level, practical guide to using the LangChain RAG-based chatbot in this repo. You can edit or expand sections to match the exact notebooks, scripts, and vector store choices used in this project.
